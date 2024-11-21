@@ -26,8 +26,3 @@ We are not responsible for any potential issues, damages, or malfunctions that m
 
 ## Special Thanks  
 <a href="https://github.com/0x11DFE">@0x11DFE</a> aka T3SL4
-
-## Repository Insights
-![Repo Stats](https://github-readme-stats.vercel.app/api?username=Elcapitanoe&show_icons=true&theme=tokyonight)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elcapitanoe&layout=compact)
