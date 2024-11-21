@@ -1,9 +1,13 @@
-[![Elcapitanoe - Redfin-Build-Prop](https://img.shields.io/static/v1?label=Elcapitanoe&message=Redfin-Build-Prop&color=blue&logo=github)](https://github.com/Elcapitanoe/Redfin-Build-Prop "Go to GitHub repo")
-[![stars - Redfin-Build-Prop](https://img.shields.io/github/stars/Elcapitanoe/Redfin-Build-Prop?style=social)](https://github.com/Elcapitanoe/Redfin-Build-Prop)
-[![forks - Redfin-Build-Prop](https://img.shields.io/github/forks/Elcapitanoe/Redfin-Build-Prop?style=social)](https://github.com/Elcapitanoe/Redfin-Build-Prop)
-[![Total Downloads](https://img.shields.io/github/downloads/Elcapitanoe/Redfin-Build-Prop/total?color=blue)](https://github.com/Elcapitanoe/Redfin-Build-Prop)
-[![GitHub tag](https://img.shields.io/github/tag/Elcapitanoe/Redfin-Build-Prop?include_prereleases=&sort=semver&color=blue)](https://github.com/Elcapitanoe/Redfin-Build-Prop/releases/)
-[![issues - Redfin-Build-Prop](https://img.shields.io/github/issues/Elcapitanoe/Redfin-Build-Prop?color=blue)](https://github.com/Elcapitanoe/Redfin-Build-Prop/issues)
+<div align="center">
+  
+<img alt="UST-license" src="https://img.shields.io/badge/Open_source-MIT-red.svg?logo=git&logoColor=green"/>
+<img src="https://img.shields.io/github/last-commit/Elcapitanoe/Redfin-Build-Prop.svg?logo=Sublime+Text&logoColor=green&label=Active"/>
+<img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/Elcapitanoe/Redfin-Build-Prop">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Elcapitanoe/Redfin-Build-Prop">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Elcapitanoe/Redfin-Build-Prop">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FElcapitanoe%2FRedfin-Build-Prop&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false"/>
+
+</div>
 
 # Pixel Prop Magisk Module  
 Spoof your Android device to appear as a Pixel 5 (redfin).
