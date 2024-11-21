@@ -1,5 +1,5 @@
 # Pixel Prop
-Spoof your Android device to Pixel
+Spoof your Android device to Pixel 5 (redfin)
 
 # Installation
 1. Download Latest Pixel Prop and send it to your device.
