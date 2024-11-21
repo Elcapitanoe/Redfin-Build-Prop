@@ -1,8 +1,6 @@
-id=Redfin_Prop
-name=Pixel 5 (REDFIN) Prop
-version=2023-02-05
-versionCode=230205
-author=Tesla
-description=Spoof your device to REDFIN pixel prop (Feb 2023)
-donate=https://wannabe1337.page.link/4xK6
-support=https://t.me/PixelProps
+id=[Module ID]
+name=[Module Name]
+version=[Module Version]
+versionCode=[Module Version Code]
+author=[Module Author]
+description=[Module Description]
