@@ -27,20 +27,7 @@ We are not responsible for any potential issues, damages, or malfunctions that m
 ## Special Thanks  
 <a href="https://github.com/0x11DFE">@0x11DFE</a> aka T3SL4
 
-<div align="center">
-  
-  # Redfin Build Prop Repository Statistics
-
-  ![License](https://img.shields.io/badge/License-Apache-blue.svg)
-  ![Visitors](https://profile-counter.glitch.me/Elcapitanoe-Redfin-Build-Prop/count.svg)
-  ![Profile Views](https://komarev.com/ghpvc/?username=Elcapitanoe&color=blue)
-
-  ## Repository Insights
-  ![Repo Stats](https://github-readme-stats.vercel.app/api?username=Elcapitanoe&show_icons=true&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elcapitanoe&layout=compact)
-
-  ## Active Metrics
-  ![Last Commit](https://img.shields.io/github/last-commit/Elcapitanoe/Redfin-Build-Prop)
-  ![Repo Size](https://img.shields.io/github/repo-size/Elcapitanoe/Redfin-Build-Prop)
-  
-</div>
+## Repository Insights
+![Repo Stats](https://github-readme-stats.vercel.app/api?username=Elcapitanoe&show_icons=true&theme=tokyonight)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elcapitanoe&layout=compact)
