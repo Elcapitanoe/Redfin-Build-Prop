@@ -1,3 +1,9 @@
+# Redfin Build Prop
+![Total Downloads](https://img.shields.io/github/downloads/Elcapitanoe/Redfin-Build-Prop/total)
+![Version](https://img.shields.io/github/v/release/Elcapitanoe/Redfin-Build-Prop)
+![GitHub stars](https://img.shields.io/github/stars/Elcapitanoe/Redfin-Build-Prop?style=social)
+![Build Status](https://img.shields.io/github/workflow/status/Elcapitanoe/Redfin-Build-Prop/CI)
+
 # Pixel Prop Magisk Module  
 Spoof your Android device to appear as a Pixel 5 (redfin).
 
