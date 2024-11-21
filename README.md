@@ -1,4 +1,4 @@
-# Pixel Prop
+# Pixel Prop Magisk Module
 Spoof your Android device to Pixel 5 (redfin)
 
 # Installation
