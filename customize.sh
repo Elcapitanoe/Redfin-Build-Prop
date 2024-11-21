@@ -39,4 +39,4 @@ for i in $(find $MODPATH -type f -name "*.sh" -o -name "*.prop" -o -name "*.rule
 done
 
 # Print footer message
-ui_print "- By Tesla, Telegram: @T3SL4"
+ui_print "- Thanks to @T3SL4"
