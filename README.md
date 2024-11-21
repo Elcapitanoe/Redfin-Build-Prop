@@ -1,7 +1,7 @@
 <div align="center">
   
 <img alt="UST-license" src="https://img.shields.io/badge/Open_source-GPL-blue.svg?logo=git&logoColor=white"/>
-<img src="https://img.shields.io/github/last-commit/Elcapitanoe/Redfin-Build-Prop.svg?logo=Sublime+Text&logoColor=blue&label=Active&color=blue"/>
+<img src="https://img.shields.io/github/last-commit/Elcapitanoe/Redfin-Build-Prop.svg?logo=Sublime+Text&logoColor=white&label=Active&color=blue"/>
 <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/Elcapitanoe/Redfin-Build-Prop?color=blue">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Elcapitanoe/Redfin-Build-Prop?color=blue">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Elcapitanoe/Redfin-Build-Prop">
