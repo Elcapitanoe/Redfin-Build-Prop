@@ -13,6 +13,12 @@ Spoof your Android device to appear as a Pixel 5 (redfin).
 2. Open the Magisk app, tap on "Install from Storage," and select the Pixel Prop file.  
 3. The module will be flashed automatically.  
 4. Once the flashing process is complete, restart your device. After rebooting, your device should now be spoofed to a Pixel 5.
-   
+
+## Latest Release
+[![Download - Here](https://img.shields.io/static/v1?label=Download&message=Here&color=blue&style=for-the-badge)](https://github.com/Elcapitanoe/Redfin-Build-Prop/releases)
+
+## Disclaimer
+We are not responsible for any potential issues, damages, or malfunctions that may occur as a result of using this module. This includes, but is not limited to, system instability, data loss, or damage to your device. It is highly recommended to make a full backup of your device before installation.
+
 ## Special Thanks  
 <a href="https://github.com/0x11DFE">@0x11DFE</a> aka T3SL4
